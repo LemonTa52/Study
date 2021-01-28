@@ -1,2 +1,2 @@
-#打印输出Hello World!
+#在控制台打印输出Hello World!
 print("Hello World!")

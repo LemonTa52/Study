@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	//打印输出Hello World!
+	//在控制台打印输出Hello World!
     printf("Hello World!\n");
 
     return 0;
