@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int main(){
-	//在控制台打印输出Hello World!
-    printf("Hello World!\n");
-
-    return 0;
-}
+int main(){	
+	//在控制台输出Hello world!
+	printf("Hello world!\n");
+	
+	return 0;
+} 
